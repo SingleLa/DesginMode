@@ -1,4 +1,4 @@
-package work;
+package FactoryMethod;
 
 public class IDcards extends Product {
     private String owner;

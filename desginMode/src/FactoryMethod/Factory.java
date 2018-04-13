@@ -1,4 +1,4 @@
-package work;
+package FactoryMethod;
 
 public abstract class Factory {
     public final Product create(String owner){
